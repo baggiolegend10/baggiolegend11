@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>AD_UNIT_ID_FOR_BANNER_TEST</key>
+	<string>ca-app-pub-3940256099942544/2934735716</string>
+	<key>AD_UNIT_ID_FOR_INTERSTITIAL_TEST</key>
+	<string>ca-app-pub-3940256099942544/4411468910</string>
+	<key>CLIENT_ID</key>
+	<string>539915577378-sslkon6rke39sbheer2pq4gpmdgm8e1m.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.539915577378-sslkon6rke39sbheer2pq4gpmdgm8e1m</string>
+	<key>API_KEY</key>
+	<string>AIzaSyCZqI6ibc6WQlF2J8dY6IcdRIKLcze9ltk</string>
+	<key>GCM_SENDER_ID</key>
+	<string>539915577378</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>liangshaochi.com.baggio1</string>
+	<key>PROJECT_ID</key>
+	<string>baggiolegend10-eee63</string>
+	<key>STORAGE_BUCKET</key>
+	<string>baggiolegend10-eee63.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<true/>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false/>
+	<key>IS_APPINVITE_ENABLED</key>
+	<false/>
+	<key>IS_GCM_ENABLED</key>
+	<true/>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true/>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:539915577378:ios:02a3e4f11867dd11</string>
+	<key>DATABASE_URL</key>
+	<string>https://baggiolegend10-eee63.firebaseio.com</string>
+</dict>
+</plist>
